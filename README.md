@@ -10,4 +10,7 @@ credit to https://github.com/ReactNativeSchool/react-native-calculator for examp
 3. `npm install --global yarn`
 4. download calculator code from this repo
 5. `yarn start`
-6. scan qr code with expo go app (android) or camera app (ios)
+7. download expo go app on phone
+8. make sure phone is on same internet connection as the computer running the app
+9. scan qr code within expo go app (android) or with camera app (ios)
+10. expo go automatically downloads and runs the code on phone
